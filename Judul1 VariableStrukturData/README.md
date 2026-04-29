@@ -120,3 +120,7 @@ Penjelasan output
 - Saat menghapus lagu → lagu yang dipilih akan dihapus dari Linked List
 
 - Saat lagu tidak ditemukan → muncul pesan "Lagu tidak ditemukan
+
+LINK YOUTUBE
+
+https://youtu.be/EQTUWIjuwG0?si=1KFY3-dmQxMTHnbq
