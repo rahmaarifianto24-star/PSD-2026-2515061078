@@ -45,3 +45,6 @@ Penjelasan output
 - Saat menampilkan "Jadwal sebelum diurutkan" → data ditampilkan sesuai urutan input (Bus Tayo lalu Travel Rahma)
 - Saat proses sorting → program mengurutkan data berdasarkan jam (12:23 lebih dulu dari 22:40)
 - Saat menampilkan "Jadwal setelah diurutkan" → data tampil dari yang paling awal ke paling akhir (Travel Rahma lalu Bus Tayo)
+
+# LINK YOUTUBE
+https://youtu.be/riOClMF4pkI?si=FXBvqB4dbh9aXJW8
