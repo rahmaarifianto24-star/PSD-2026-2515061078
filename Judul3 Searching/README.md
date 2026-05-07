@@ -1,4 +1,6 @@
 ## PROGRAM MENCARI NILAI MAHASISWA
-## Judul Program
+## A. Judul Program
 Mencari nilai mahasiswa dengan menggunakan binary search
-## 
+## B. Deskripsi Singkat 
+
+## C. 
