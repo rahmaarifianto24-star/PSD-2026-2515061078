@@ -8,7 +8,7 @@ Penyimpanan nomor tiket pelanggan dengan menggunakan binary search tree
 
 Program ini digunakan untuk mengelola nomor tiket pelanggan pada suatu sistem pelayanan, seperti tempat servis elektronik, klinik, atau loket antrean. Setiap nomor tiket pelanggan akan disimpan ke dalam struktur binary search tree. Data yang lebih kecil akan ditempatkan di sebelah kiri, sedangkan data yang lebih besar akan ditempatkan di sebelah kanan.
 
-## C.Source Code
+## C. Source Code
 
 Screenshot Source Code di bawah ini:
 <img width="1916" height="993" alt="Screenshot 2026-05-26 172617" src="https://github.com/user-attachments/assets/16300218-ba60-49d6-bb54-d13ff985bc9c" />
@@ -40,5 +40,31 @@ untuk menampilkan semua nomor tiket secara urut dari kecil ke besar. Traversal i
 Fungsi main adalah bagian utama program. Di dalamnya dibuat objek bst dari class BSTTiket. Objek ini digunakan untuk menjalankan fitur tambah tiket, cari tiket, dan tampilkan tiket.
 ## D. Output Program
 
+Screenshoot output:
 
+<img width="1856" height="911" alt="Screenshot 2026-05-26 184903" src="https://github.com/user-attachments/assets/63940fa5-13e5-4bd8-ba45-33b0e19fe13e" />
+<img width="1851" height="463" alt="Screenshot 2026-05-26 184913" src="https://github.com/user-attachments/assets/7a20ffb5-1cac-4be9-b6de-add9d6205276" />
+
+Penjelasan output:
+
+- Program menampilkan menu Sistem Nomor Tiket Pelanggan.
+
+- Pengguna memilih menu 1 untuk menambahkan nomor tiket.
+
+- Nomor tiket yang dimasukkan adalah 12, 25, dan 78.
+
+- Program menampilkan pesan bahwa setiap nomor tiket berhasil ditambahkan.
+
+- Pengguna memilih menu 3 untuk menampilkan semua tiket secara terurut.
+
+- Program menampilkan hasil: 12 25 78
+
+- Pengguna memilih menu 2 untuk mencari nomor tiket.
+
+- Nomor tiket yang dicari adalah 25.
+
+- Program menampilkan bahwa nomor tiket 25 ditemukan.
+
+- Pengguna memilih menu 4 untuk keluar, lalu program selesai.
 ## LINK YOUTUBE
+https://youtu.be/4s1nMYDu4wY
