@@ -1,8 +1,8 @@
-## PROGRAM NOMOR TIKET PELANGGAN
+## PROGRAM PENYIMPANAN NOMOR TIKET PELANGGAN
 
 ## A. Judul Program
 
-Penyimpanan nomor tiket pelanggan dengan menggunakan binary search tree 
+Sistem penyimpanan nomor tiket pelanggan dengan menggunakan binary search tree 
 
 ## B. Deskripsi Singkat
 
